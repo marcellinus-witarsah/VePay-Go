@@ -1,4 +1,6 @@
-# VePay-Go
+<p align="center">
+  <h1 align="center">VePay-Go</h1>
+</p>
 
 # Table of Contents 
 1. [About Product](##About-Product)
