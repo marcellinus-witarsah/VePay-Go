@@ -22,8 +22,18 @@
 ## About Product
 The product is about using a license plate as payment system which will limit any physical activity for payment and decrease payment time. The product will consist of 3 parts which are mobile application for user to pay, admin website for managing vehicles that coming in and out the parking lot and model for detect and recognize license plate character from a picture.
 
-## Products
+## Tech Stack
+<p align="center">
+    <img src="images/tech-stack-cc.png" alt="Training Result YOLOv5s" height="500">
+</p>
+<p align="center">
+    <img src="images/tech-stack-ml.png" alt="Training Result YOLOv5s" height="500">
+</p>
+<p align="center">
+    <img src="images/tech-stack-md.png" alt="Training Result YOLOv5s" height="500">
+</p>
 
+## Products
 Link to each of our repository:
 1. [Mobile Development Repository](https://github.com/rxdz0/Vepay-GoMD)
 2. [Machine Learning Repository](https://github.com/marcellinus-witarsah/VePay-Go-ML)
