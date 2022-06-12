@@ -38,3 +38,9 @@ Link to each of our repository:
 1. [Mobile Development Repository](https://github.com/rxdz0/Vepay-GoMD)
 2. [Machine Learning Repository](https://github.com/marcellinus-witarsah/VePay-Go-ML)
 3. [Cloud Computing Repository](https://github.com/calvinwong78/Vepay-Go-CC)
+
+## User Flow
+<p align="center">
+    <img src="images/user-flow.png" alt="User Flow VePay Go">
+</p>
+
