@@ -24,13 +24,13 @@ The product is about using a license plate as payment system which will limit an
 
 ## Tech Stack
 <p align="center">
-    <img src="images/tech-stack-cc.png" alt="Training Result YOLOv5s" height="300">
+    <img src="images/tech-stack-cc.png" alt="Tech Stack Cloud Computing">
 </p>
 <p align="center">
-    <img src="images/tech-stack-ml.png" alt="Training Result YOLOv5s" height="300">
+    <img src="images/tech-stack-ml.png" alt="Tech Stack Machine Learning">
 </p>
 <p align="center">
-    <img src="images/tech-stack-md.png" alt="Training Result YOLOv5s" height="300">
+    <img src="images/tech-stack-md.png" alt="Tech Stack Mobile Development">
 </p>
 
 ## Products
