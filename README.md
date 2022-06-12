@@ -20,6 +20,7 @@
 |Kelvin Wiriyatama            | C7293F2481  | Cloud Computing     |Cloud Computing Developer                    |
 
 ## About Product
+The product is about using a license plate as payment system which will limit any physical activity for payment and decrease payment time. The product will consist of 3 parts which are mobile application for user to pay, admin website for managing vehicles that coming in and out the parking lot and model for detect and recognize license plate character from a picture.
 
 ## Products
 
