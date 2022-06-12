@@ -44,3 +44,7 @@ Link to each of our repository:
     <img src="images/user-flow.png" alt="User Flow VePay Go">
 </p>
 
+## Cloud Architecture
+<p align="center">
+    <img src="images/cloud-architecture.png" alt="Cloud Architecture">
+</p>
